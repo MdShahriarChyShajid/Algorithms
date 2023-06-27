@@ -1,2 +1,2 @@
 # Algorithms
-Algorithms I write throughout years.
+Algorithms I wrote throughout years.
